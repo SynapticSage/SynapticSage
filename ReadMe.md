@@ -6,7 +6,7 @@ I'm a quantitative programmer completing a PhD in Neuroscience under Shantanu Ja
 
 My work spans brain rhythms and temporal representations for solving memory-guided tasks. I have extensive experience in time-series analysis and bayesian decoding, and experience with emerging statistical sequence models.
 
-My website → ryanyoung.io 
+My website → https://ryanyoung.io 
 (not complete, design in flux).
 
 On the side, very passionate about climbing 🧗, choir 🎵, dance 👯, replicating AI/statistics 🤖 papers, and emerging dialogues between neurocience and AI/engineering.
