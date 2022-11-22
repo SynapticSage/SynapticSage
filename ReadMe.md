@@ -1,4 +1,3 @@
-"""
 Hi there!
 
 I'm Ryan.
@@ -18,4 +17,3 @@ Future-looking, I'm interested in
 - successor models with policy streams :: expanding upon howard eichenbaum's vision
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
-"""
