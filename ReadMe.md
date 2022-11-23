@@ -13,7 +13,7 @@ On the side, very passionate about climbing 🧗, choir 🎵, dance 👯, replic
 
 Future-looking, I'm interested in
 - communication subspaces with tensor methods :: going beyond pair-wise communication
-- heteroencoders for biological time-series :: filtering signals by content
 - successor models with policy streams :: expanding upon howard eichenbaum's vision
+- content-targeted autoencoders :: filtering signals by content
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
