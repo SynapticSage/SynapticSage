@@ -2,7 +2,7 @@ Hi there!
 
 I'm Ryan.
 
-I'm a quantitative programmer completing a PhD in Neuroscience under Shantanu Jadhav.
+I'm a quantitative programmer completing a PhD in Neuroscience under Dr. Shantanu Jadhav.
 
 My work spans brain rhythms and temporal representations for solving memory-guided tasks. I have extensive experience in time-series analysis and bayesian decoding, and experience with emerging statistical sequence models.
 
