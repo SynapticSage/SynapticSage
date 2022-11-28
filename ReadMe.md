@@ -8,7 +8,7 @@ My work spans brain rhythms and temporal representations for solving memory-guid
 
 On the side, I'm passionate about climbing 🧗, choir 🎵, dance 👯, replicating AI/statistics 🤖 papers, and emerging dialogues between neuroscience and AI/engineering.
 
-Looking ahead, I'm setting up projects in
+Looking ahead, I'm planning projects in these areas
 - communication subspaces with tensor methods :: going beyond pair-wise communication
 - successor models with factorized what, where, and policy streams :: expanding upon howard eichenbaum's vision
 - content-targeted autoencoders :: filtering signals by content
