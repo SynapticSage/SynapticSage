@@ -10,7 +10,7 @@ On the side, I'm passionate about climbing 🧗, choir 🎵, dance 👯, replica
 
 Looking ahead, I'm setting up projects in
 - communication subspaces with tensor methods :: going beyond pair-wise communication
-- successor models with policy streams :: expanding upon howard eichenbaum's vision
+- successor models with factorized what, where, and policy streams :: expanding upon howard eichenbaum's vision
 - content-targeted autoencoders :: filtering signals by content
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
