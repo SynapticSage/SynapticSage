@@ -13,4 +13,4 @@ Looking forward, I'm planning projects in a few areas
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage&theme=dark)](https://git.io/streak-stats)
