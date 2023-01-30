@@ -12,3 +12,5 @@ Looking forward, I'm planning projects in a few areas
 - content-targeted autoencoders :: filtering signals by content
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage)](https://git.io/streak-stats)
