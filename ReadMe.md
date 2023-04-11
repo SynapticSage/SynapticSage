@@ -14,10 +14,6 @@ Looking forward, I'm planning projects in a few areas
 
 Collabs welcome. Let's build something awesome 🧨. Enjoy :)
 
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage&theme=dark)](https://git.io/streak-stats)
-
 --- 
 #### 🧰 Languages and Tools:
 <p align="center">
@@ -31,3 +27,8 @@ Collabs welcome. Let's build something awesome 🧨. Enjoy :)
 
 <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="cpp" height="40" style="vertical-align:top; margin:6px">
 </p>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage&theme=dark)](https://git.io/streak-stats)
+
