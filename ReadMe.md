@@ -27,11 +27,11 @@ Collabs welcome. Let's build something awesome 🧨. Enjoy :)
 
 <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
 </p>
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
   <img src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/FluxML/Flux.jl/master/docs/src/assets/logo-dark.png#gh-dark-mode-only" alt="cpp" height="50" style="vertical-align:top; margin:6px">
-</p
+</p>-->
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage&theme=dark)](https://git.io/streak-stats)-->
