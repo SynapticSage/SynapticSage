@@ -8,7 +8,7 @@ I'm a quantitative programmer completing a PhD in Neuroscience under Dr. Shantan
 My work spans brain rhythms and temporal representations for solving memory-guided tasks. I have extensive experience in time-series analysis, Bayesian decoding, and emerging statistical sequence models.
 
 After my thesis project, I'm planning projects in a few areas
-- communication subspaces with tensor methods :: going beyond pair-wise communication with 3+ area product spaces
+- communication subspaces with tensor methods :: going beyond pair-wise communication with product spaces
 - successor models with factorized what, where, and policy streams :: extending Eichenbaum's model
 - content-targeted autoencoders :: filtering signals by content
 
