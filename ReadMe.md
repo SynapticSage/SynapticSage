@@ -16,20 +16,23 @@ Collabs welcome 🤝. Let's build something awesome 🧨. Enjoy :)
 
 --- 
 <h4 align="center"> 🧰 Languages and Tools: </h4>
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:6px">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:6px">
+    
+  <img src="https://github.com/github/explore/blob/main/topics/julia/julia.png?raw=true" alt="Julia" height="50" style="vertical-align:top; margin:6px">
+    
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="50" style="vertical-align:top; margin:6px">
+    
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" height="40" style="vertical-align:top; margin:6px">
   
-<img src="https://github.com/github/explore/blob/main/topics/julia/julia.png?raw=true" alt="Julia" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="50" style="vertical-align:top; margin:6px">
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" height="40" style="vertical-align:top; margin:6px">
-
-<img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
-
-<img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
 </p>
-<img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="jax" height="50" style="vertical-align:top; margin:6px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="jax" height="50" style="vertical-align:top; margin:6px">
+  <img src="https://docs.llamaindex.ai/en/stable/_static/assets/LlamaSquareBlack.svg" alt="li" height="50" style="vertical-align:top; margin:6px">
+</p>
 
 <!--<p align="center">
   <img src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
