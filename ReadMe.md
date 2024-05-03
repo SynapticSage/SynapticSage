@@ -29,6 +29,8 @@ Collabs welcome 🤝. Let's build something awesome 🧨. Enjoy :)
 
 <img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
 </p>
+<img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" alt="jax" height="50" style="vertical-align:top; margin:6px">
+
 <!--<p align="center">
   <img src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/FluxML/Flux.jl/master/docs/src/assets/logo-dark.png#gh-dark-mode-only" alt="cpp" height="50" style="vertical-align:top; margin:6px">
