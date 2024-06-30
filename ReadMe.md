@@ -3,7 +3,7 @@ Hi there! 🙋‍♂️
 
 I'm Ryan.
 
-I'm a quantitative 🧮 programmer completing a PhD in Neuroscience under Dr. Shantanu Jadhav.
+I'm a quantitative 🧮 programmer.
 
 My work spans brain rhythms and temporal representations for solving memory-guided tasks. I have extensive experience in time-series analysis, Bayesian decoding, and emerging statistical sequence models.
 
