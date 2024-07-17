@@ -1,7 +1,7 @@
 Hi there! 🙋‍♂️
 ---
 
-I'm Ryan.
+I'm [Ryan](http://ryanyoung.io).
 
 I'm a quantitative 🧮 programmer.
 
