@@ -1,4 +1,4 @@
-Hi there! 🙋‍♂️
+🙋‍♂️ Hi there!
 ---
 
 [I'm Ryan.](http://ryanyoung.io)
