@@ -1,7 +1,7 @@
 Hi there! 🙋‍♂️
 ---
 
-[I'm Ryan](http://ryanyoung.io).
+<h4> <a href="http://ryanyoung.io">I'm <it>Ryan</it>.</a> </h4>
 
 I'm a quantitative 🧮 programmer.
 
