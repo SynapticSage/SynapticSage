@@ -1,4 +1,4 @@
-Hi there! <h1>🙋‍♂️</h1>
+Hi there! 🙋‍♂️
 ---
 
 [I'm Ryan.](http://ryanyoung.io)
