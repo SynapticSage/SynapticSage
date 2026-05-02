@@ -1,6 +1,5 @@
-# 🙋‍♂️ Ryan Young
-
-Sr. MLE/AE · Computational Neuroscientist 
+#### 🙋‍♂️ Ryan Young
+##### Sr. MLE/AE · Computational Neuroscientist 
 
 Currently building neural nets for EM &amp; GPS signal protection at **Mayflower Communications** — classification, geolocation, edge deployment.
 
