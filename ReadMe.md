@@ -10,20 +10,11 @@ neuroscience — or so I'm telling myself. Truthfully, there's no escaping brain
  mathematics. They show up in every human endevour — art, music, medicine, and even GPS. 
 
 
-**Developing side projects in:** 
-- memory tools and memory capture tools
-  - gtd capture and refile tools
-  - language-model assisted memory capture
-- neuroscience tools
-  - for time cells
-  - for communication subspaces
-    - tensor-methods for N-way areal interactions
-  - successor models that factorize information into streams (what, where, how/policy)
-- new transformer tricks
-  - tensor-based formers (multilinear transformers)
-  - persistent activation methods (forward-pass persistence)
-  - planning modules
-- weight space learning: inferring properties of model training data from weights
+**Developing side projects in:**
+- **Memory tools** — gtd capture and refile tools · language-model assisted memory capture
+- **Neuroscience tools** — time cells · communication subspaces (tensor-methods for N-way areal interactions) · successor models that factorize information into streams (what, where, how/policy)
+- **Transformer tricks** — tensor-based formers (multilinear transformers) · persistent activation methods (forward-pass persistence) · planning modules
+- **Weight space learning** — inferring properties of model training data from weights
 
 **[🌐 ryanyoung.io](https://ryanyoung.io)** 
 **[💼 LinkedIn](https://www.linkedin.com/in/ryanyoung2/)** 
