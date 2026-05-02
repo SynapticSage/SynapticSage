@@ -4,21 +4,27 @@ Sr. MLE/AE · Computational Neuroscientist
 
 Currently building neural nets for EM &amp; GPS signal protection at **Mayflower Communications** — classification, geolocation, edge deployment.
 
-My doctoral work was in PhD in rhythms and temporal representations for memory-guided tasks —
-time-series analysis, Bayesian decoding, statistical sequence models. 
+My doctoral work was a PhD in rhythms and temporal computing underlying navigation and memory-guided tasks — slices of Biological Intelligence studied through time-series analysis, Bayesian decoding, and statistical sequence models. I also use artificial intelligence the other way around: as a lens to study and predict properties of the neural code itself.
 
-These days I apply my background in artificial/biological intelligence and
-computing to areas outside of traditional Neuroscience. But try as I may to
-get away from brains, connections to the brain, mind, and their mathematics
-show up in every human endevour: art, music, defense, computing tools, and
-medicine.
+These days I point the same instincts at problems that have less to do with
+neuroscience — or so I'm telling myself. Truthfully, there's no escaping brain, mind, and associated
+ mathematics. They show up in every human endevour — art, music, medicine, and even GPS. 
 
-**Developing projects in:** 
-tensor methods for communication subspaces ·
-successor models with factorizations (what / where / policy) ·
-planning modules for transformers ·
-tensformers (multilinear transformers) ·
-memory tools and memory capture tools
+
+**Developing side projects in:** 
+- memory tools and memory capture tools
+  - obsidian-gtd capture and refile
+  - language-model assisted memory capture
+- neuroscience tools
+  - for time cells
+  - for communication subspaces
+    - tensor-methods for N-way areal interactions
+  - successor models that factorize information into streams (what, where, how/policy)
+- new transformer tricks
+  - tensor-based formers (multilinear transformers)
+  - persistent activation methods (forward-pass persistence)
+  - planning modules
+- weight space learning: inferring properties of model training data from weights
 
 **[🌐 ryanyoung.io](https://ryanyoung.io)** 
 **[💼 LinkedIn](https://www.linkedin.com/in/ryanyoung2/)** 
