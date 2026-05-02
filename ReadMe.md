@@ -1,34 +1,29 @@
-🙋‍♂️ Hi there!
----
+# 🙋‍♂️ Ryan Young
 
-[I'm Ryan.](http://ryanyoung.io)
+Sr. MLE/AE · Computational Neuroscientist 
 
-I'm a quantitative 🧮 programmer.
+Currently building neural nets for EM &amp; GPS signal protection at **Mayflower Communications** — classification, geolocation, edge deployment.
 
-My work spans brain rhythms and temporal representations for solving memory-guided tasks. I have extensive experience in time-series analysis, Bayesian decoding, and emerging statistical sequence models.
+My doctoral work was in PhD in rhythms and temporal representations for memory-guided tasks —
+time-series analysis, Bayesian decoding, statistical sequence models. 
 
-I'm planning projects in a few areas
-- communication subspaces with tensor methods :: going beyond pair-wise communication with product spaces
-- successor models with factorized what, where, and policy streams :: extending Eichenbaum's model
-- content-targeted autoencoders :: filtering signals by content
+These days I apply my background in artificial/biological intelligence and
+computing to areas outside of traditional Neuroscience. But try as I may to
+get away from brains, connections to the brain, mind, and their mathematics
+show up in every human endevour: art, music, defense, computing tools, and
+medicine.
 
-Collabs welcome 🤝. Let's build something awesome 🧨. Enjoy :)
+**Developing projects in:** 
+tensor methods for communication subspaces ·
+successor models with factorizations (what / where / policy) ·
+planning modules for transformers ·
+tensformers (multilinear transformers) ·
+memory tools and memory capture tools
 
---- 
-<h4 align="center"> 🧰 Languages and Tools: </h4>
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40" style="margin:4px">
-<img src="https://github.com/github/explore/blob/main/topics/julia/julia.png?raw=true" alt="Julia" width="40" height="40" style="margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" height="40" style="margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" height="40" style="margin:4px">
-<img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="C++" width="40" height="40" style="margin:4px">
-<img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png?raw=true" alt="PyTorch" width="40" height="40" style="margin:4px">
-</p>
-<!--<p align="center">
-  <img src="https://github.com/github/explore/blob/main/topics/tensorflow/tensorflow.png?raw=true" alt="cpp" height="50" style="vertical-align:top; margin:6px">
-  <img src="https://raw.githubusercontent.com/FluxML/Flux.jl/master/docs/src/assets/logo-dark.png#gh-dark-mode-only" alt="cpp" height="50" style="vertical-align:top; margin:6px">
-</p>-->
+**[🌐 ryanyoung.io](https://ryanyoung.io)** 
+**[💼 LinkedIn](https://www.linkedin.com/in/ryanyoung2/)** 
+**[🆔 ORCID](https://orcid.org/0000-0002-9454-2876)**
+<!-- ·  **[📄 CV](link-to-cv.pdf)** -->
+<!-- ·  **[📝 preprint](preprint-link)** -->
 
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=synapticsage&theme=dark)](https://git.io/streak-stats)-->
-
+Collabs welcome 🤝 — let's build something awesome 🧨.
