@@ -4,7 +4,7 @@ Sr. MLE/AE · Computational Neuroscientist
 
 Currently building neural nets for EM &amp; GPS signal protection at **Mayflower Communications** — classification, geolocation, edge deployment.
 
-My doctoral work was a PhD in rhythms and temporal computing underlying navigation and memory-guided tasks — slices of Biological Intelligence studied through time-series analysis, Bayesian decoding, and statistical sequence models. I also use artificial intelligence the other way around: as a lens to study and predict properties of the neural code itself.
+My doctoral work was in rhythms and temporal computing underlying navigation and memory-guided tasks — slices of Biological Intelligence studied through time-series analysis, Bayesian decoding, and statistical sequence models. I also have used artificial intelligence the other way around: as a lens to study and predict properties of the neural code itself.
 
 These days I point the same instincts at problems that have less to do with
 neuroscience — or so I'm telling myself. Truthfully, there's no escaping brain, mind, and associated
