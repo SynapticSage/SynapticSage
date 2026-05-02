@@ -13,7 +13,7 @@ neuroscience — or so I'm telling myself. Truthfully, there's no escaping brain
 
 **Developing side projects in:** 
 - memory tools and memory capture tools
-  - obsidian-gtd capture and refile
+  - gtd capture and refile tools
   - language-model assisted memory capture
 - neuroscience tools
   - for time cells
